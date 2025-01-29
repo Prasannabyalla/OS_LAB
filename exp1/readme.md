@@ -1,3 +1,4 @@
+
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
@@ -7,11 +8,11 @@
 ### DATE TIME COMMAND OUTPUT
 ![date time command output](date1.png)
 ### DATE TIME COMMAND MANUAL
-![date time command manual](mdate1.png)
+![date time command manual](mdate.png)
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date2.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate2.png)
+![date year command manual](mdate.png)
 ### DATE HOUR COMMAND OUTPUT
 ![date hour command output](date3.png)
 ### DATE HOUR COMMAND MANUAL
@@ -21,11 +22,11 @@
 ### CAL COMMAND MANUAL
 ![cal command manual](mcal.png)
 ### CAL-YEAR COMMAND OUTPUT
-![cal-year command output](cal1.png)
+![cal-year command output](cal_year.png)
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](mcal.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](cal2.png)
+![cal-month command output](cal_month_year.png)
 ### CAL-MONTH COMMAND MANUAL
 ![cal-month command manual](mcal.png)
 ### WHO COMMAND OUTPUT 
@@ -45,19 +46,19 @@
 ### UNAME COMMAND MANUAL
 ![uname command manual](muname.png)
 ### UNAME-R COMMAND OUTPUT
-![uname-r command output](uname1.png)
+![uname-r command output](uname(-r).png)
 ### UNAME-R COMMAND MANUAL
 ![uname-r command manual](muname1.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](uname2.png)
+![uname-n command output](uname(-n).png)
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
-![echo command output](echo.png)
+![echo command output](echo_txt.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo1.png)
+![echo $ command output](echo_HOME.png)
 ### ECHO $ COMMAND MANUAL 
 ![echo $ command manual](mecho1.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
@@ -81,7 +82,7 @@
 ### PWD COMMAND MANUAL
 ![pwd command manual](mpwd.png)
 ### MKDIR COMMAND OUTPUT
-![mkdir command output](mkdir.png)
+![mkdir command output](mkdir_dir.png)
 ### MKDIR COMMAND MANUAL
 ![mkdir command manual](mmkdir.png)
 ### CD  SUBDIR COMMAND OUTPUT
@@ -106,39 +107,39 @@
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
-![cp command output](cp.png)
+![cp command output](cmp_f1_f2.png)
 ### CP COMMAND MANUAL
 ![cp command manual](mcp.png)
 ### CP -I COMMAND OUTPUT
-![cp -i command output](cp1.png)
+![cp -i command output](cp_i_src_des.png)
 ### CP -I COMMAND MANUAL
 ![cp -i command manual](mcp.png)
 ### CP -R COMMAND OUTPUT
-![cp -r command output](cp2.png)
+![cp -r command output](cp-r_src_des.png)
 ### CP -R COMMAND MANUAL
 ![cp -r command manual](mcp.png)
 ### MV OLD NEW COMMAND OUTPUT
-![mv command output](mv.png)
+![mv command output](mv_old_new.png)
 ### MV OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
 ### MV -V OLD NEW COMMAND OUTPUT
-![mv  command output](mv1.png)
+![mv  command output](mv_f1_f2_f3_dir.png)
 ### MV -V OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
 ### RM FILE COMMAND OUTPUT
-![rm  command output](rm.png)
+![rm  command output](rm_all.png)
 ### RM FILE COMMAND MANUAL
 ![rm  command manual](mrm.png)
 ### RM * COMMAND OUTPUT
-![rm * command output](rm1.png)
+![rm * command output](rmdir.png)
 ### RM * COMMAND MANUAL
 ![rm * command manual](mrm.png)
 ### RM -R * COMMAND OUTPUT
-![rm -r * command output](rm2.png)
+![rm -r * command output](rm-f_remove.png)
 ### RM * COMMAND MANUAL
 ![rm -r * command manual](mrm.png)
 ### RM -F * COMMAND OUTPUT
-![rm -f * command output](rm3.png)
+![rm -f * command output](rm-r_remove.png)
 ### RM -F * COMMAND OUTPUT
 ![rm -f * command manual](mrm.png)
 ### LS COMMAND OUTPUT
@@ -146,35 +147,35 @@
 ### LS COMMAND MANUAL
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
-![ls name command output](ls1.png)
+![ls name command output](ls_name.png)
 ### LS NAME * COMMAND MANUAL
 ![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
-![ls - a command output](ls2.png)
+![ls - a command output](ls_name_remove.png)
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls3.png)
+![ls -x dir command output](ls-a.png)
 ### LS - X DIR NAME COMMAND MANUAL
 ![ls -x dir command manual](mls.png)
 ### LS -R COMMAND OUTPUT
-![ls -r command manual](ls4.png)
+![ls -r command manual](ls-l.png)
 ### LS -R COMMAND MANUAL
 ![ls -r command manual](mls.png)
 ### LS - L COMMAND OUTPUT
-![ls -l command output](ls5.png)
+![ls -l command output](ls-R.png)
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](mls.png)
 ### CMP COMMAND OUTPUT
-![cmp command output](cmp.png)
+![cmp command output](cp-r_src_des.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mcmp.png)
 ### CHMOD COMMAND OUTPUT
-![chmod command output](chmod.png)
+![chmod command output](chmod_740_file.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](mchmod.png)
 
 
 
 
-# The Study And Execution Of Unix Commands Has Been Completed Successfully.
+# The Study And Execution Of Unix Commands Has Been Completed Successfully.
